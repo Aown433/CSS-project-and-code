@@ -1,0 +1,96 @@
+.First{
+    width: 1200px;
+    height:540px;
+    background-color: rgb(173, 219, 247);
+    border: 5px solid black;
+    margin: auto ;
+}
+.main{
+    width: 1200px;
+    height: 50px;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(255, 249, 127);
+    
+    color: black;
+}
+.row2
+{
+    width: 1200px;
+    height: 50px;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(127, 255, 195);
+    
+    color: black;
+
+}
+.row2c1{
+  width:  238.5px;
+  height: 50px;
+  text-align: center;
+  float: left;
+  border: 1px solid black;
+}
+.row3{
+    width: 1200px;
+    height: 200px;
+    
+    background-color: palegreen;
+}
+.row3left
+{
+width: 300px;
+height: 200px;
+float: left;
+background-color: rgb(197, 130, 106);
+text-align: center;
+
+}
+.row3c1{
+    width: 300px;
+    height: 39px;
+    border-bottom: 1px solid black;
+}
+.row3right{
+    width: 898px;
+    height: 198px;
+    border: 0cap;
+    float: left;
+    border: 1px solid black;
+}
+.clients{
+    width: 1150px ;
+    height: 25px;
+    border: 1px solid black ;
+    text-align: center;
+padding: 25px;
+}
+.row4{
+    width: 1200px;
+    height: 98px ;
+    border: 1px dotted ;
+}
+.row4left {
+width: 298px;
+height: 98px;
+float: left;
+border-right: 1px solid rgb(206, 158, 69);
+
+}.row5{
+    width: 1200px ;
+    height: 40px;
+}
+.last{
+    width:  75px;
+    height: 25px;
+    text-align: center;
+    float: left;
+    border: 1px solid black;
+    padding: 25px;
+    align-items: center;
+    margin-left: 30px;
+  }
+    
+
+
